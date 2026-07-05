@@ -95,24 +95,6 @@ The dashboard enables users to monitor sales performance, compare actual sales a
 
 ---
 
-## 📁 Repository Structure
-
-```text
-📦 PowerBI-Ecommerce-Sales-Dashboard
-│
-├── 📄 README.md
-├── 📄 E-Commerce Sales Performance Dashboard.pbix
-├── 📄 Power BI Assignment 2 Report.pdf
-│
-├── 📂 Images
-│   ├── Dashboard.png
-│   ├── DAX_Columns.png
-│   ├── DAX_Measures.png
-│   └── Dashboard_Layout.png
-│
-└── 📄 LICENSE (Optional)
-```
-
 ---
 
 ## 🎓 Learning Outcomes
