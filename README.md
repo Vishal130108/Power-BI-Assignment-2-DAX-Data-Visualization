@@ -91,12 +91,6 @@ The dashboard enables users to monitor sales performance, compare actual sales a
 
 ---
 
-## 📊 Dashboard Preview
-
-> Add your exported dashboard image inside an **Images** folder.
-
-```markdown
-![Dashboard Preview](Images/Dashboard.png)
 ```
 
 ---
