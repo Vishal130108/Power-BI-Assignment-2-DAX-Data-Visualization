@@ -91,12 +91,6 @@ The dashboard enables users to monitor sales performance, compare actual sales a
 
 ---
 
-```
-
----
-
----
-
 ## 🎓 Learning Outcomes
 
 Through this project, I gained practical experience in:
@@ -108,3 +102,5 @@ Through this project, I gained practical experience in:
 - Data modeling and relationships
 - Interactive data visualization
 - Business Intelligence reporting
+
+---
